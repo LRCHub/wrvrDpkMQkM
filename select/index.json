@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "HoneyComeBear - Missing (Official Audio)",
+  "base_artist": "HoneyComeBear",
+  "createdAt": "2026-04-03T17:06:21.080900Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "HoneyComeBear - Dear (Official Audio)",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/01_HoneyComeBear_-_Dear_(Official_Audio)_HoneyComeBear.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "HoneyComeBear - またね (Official Audio)",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/02_HoneyComeBear_-_またね_(Official_Audio)_HoneyComeBear.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "HoneyComeBear - Defy (Official Audio)",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/03_HoneyComeBear_-_Defy_(Official_Audio)_HoneyComeBear.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "HoneyComeBear - Clockwise (Official Audio)",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/04_HoneyComeBear_-_Clockwise_(Official_Audio)_HoneyComeBear.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "HoneyComeBear - アキレア (Official Audio)",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/05_HoneyComeBear_-_アキレア_(Official_Audio)_HoneyComeBear.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "HoneyComeBear - Revolver (Official Music Video)",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/06_HoneyComeBear_-_Revolver_(Official_Music_Video)_HoneyComeBear.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "HoneyComeBear - Missing (Official Audio)",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/07_HoneyComeBear_-_Missing_(Official_Audio)_HoneyComeBear.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "HoneyComeBear - Twilight (Official Audio)",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/08_HoneyComeBear_-_Twilight_(Official_Audio)_HoneyComeBear.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "HoneyComeBear - Sunflower(Official Audio)",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/09_HoneyComeBear_-_Sunflower(Official_Audio)_HoneyComeBear.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "HoneyComeBear - Calling (Official Audio)",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/10_HoneyComeBear_-_Calling_(Official_Audio)_HoneyComeBear.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "HoneyComeBear - ナツゾラ (Official Audio)",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/11_HoneyComeBear_-_ナツゾラ_(Official_Audio)_HoneyComeBear.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "HoneyComeBear - IDOL (Official Audio)",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/12_HoneyComeBear_-_IDOL_(Official_Audio)_HoneyComeBear.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "HoneyComeBear - Terrarium(Official Audio)",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/13_HoneyComeBear_-_Terrarium(Official_Audio)_HoneyComeBear.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "HoneyComeBear - Friend (Official Music Video)",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/14_HoneyComeBear_-_Friend_(Official_Music_Video)_HoneyComeBear.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "HoneyComeBear - スニーカー (Official Audio)",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/15_HoneyComeBear_-_スニーカー_(Official_Audio)_HoneyComeBear.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "HoneyComeBear - Colorful (Official Audio)",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/16_HoneyComeBear_-_Colorful_(Official_Audio)_HoneyComeBear.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "HoneyComeBear - Mirror (Official Audio)",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/17_HoneyComeBear_-_Mirror_(Official_Audio)_HoneyComeBear.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "HoneyComeBear - レイニーガール (Official Audio)",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/18_HoneyComeBear_-_レイニーガール_(Official_Audio)_HoneyComeBear.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Missing",
+      "artist": "HoneyComeBear",
+      "has_synced": false,
+      "path": "select/pl_01_Missing_HoneyComeBear.txt"
+    }
+  ]
+}
